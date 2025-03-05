@@ -1,5 +1,5 @@
 
-# Rightmove Data Scraper
+# Erklart Article Scraper
 
 This script based on property data scrap from http://erklart.com/
 
